@@ -1,5 +1,5 @@
 ## Hi there 👋 my name is Temitope Ige
-# I'm a Certified Data Analyst Professional and Community Leader!!
+# I'm a Certified Data Analyst Professional!!
 
 - 🔭 Access my Data Analytics and Data Science Projects here.
 - 👯 I’m looking to share and collaborate on data analytics projects.
